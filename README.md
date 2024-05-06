@@ -1,4 +1,4 @@
-<h1>Etkinlik ve Bilet Satış Platformu</h1>
+<h1>Etkinlik ve Yönetim Sistemi</h1>
 <p>Bu uygulama, etkinlik yönetimi ve bilet satışı için bir platform sunar. Etkinlik ekleyebilir, etkinliklere bilet satabilir ve kullanıcılardan bilet alabilirsiniz.</p>
 <img src="Ekran görüntüsü 2024-05-06 105909.png"/>
 <h2>Özellikler</h2>
